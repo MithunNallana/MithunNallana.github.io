@@ -7,3 +7,4 @@ plugins:
   - jekyll-scholar
   - jekyll-sitemap
 markdown: kramdown
+plugins_dir: [jekyll-scholar]
