@@ -1,0 +1,9 @@
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/
+environment: prod
+url: "http://mithunbabu.com"  # Sitemap base URL.
+issues_repo: MithunNallana/comments
+plugins:
+  - jekyll-scholar
+  - jekyll-sitemap
+markdown: kramdown
